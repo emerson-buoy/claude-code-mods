@@ -8,6 +8,8 @@ Mods for Claude Code: small plugins of function hooks that run inside your sessi
 | --- | --- |
 | `model-badge` | Shows the active model above the prompt. Updates when you switch models. |
 
+![model-badge above the prompt](docs/model-badge.png)
+
 ## Requirements
 
 - A recent Claude Code CLI with plugin and mod support (`claude plugin --help` should work).
