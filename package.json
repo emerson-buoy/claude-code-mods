@@ -1,0 +1,17 @@
+{
+  "name": "claude-code-mods",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Mods for Claude Code.",
+  "license": "MIT",
+  "author": "emerson-buoy",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/emerson-buoy/claude-code-mods.git"
+  },
+  "scripts": {
+    "validate": "claude plugin validate .",
+    "typecheck": "tsc -p .",
+    "test": "claude plugin test ."
+  }
+}
