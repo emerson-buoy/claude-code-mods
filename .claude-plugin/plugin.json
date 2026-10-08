@@ -1,0 +1,7 @@
+{
+  "name": "model-badge",
+  "version": "0.1.0",
+  "description": "Shows the active model above the prompt.",
+  "author": { "name": "emerson-buoy" },
+  "types": "./types/index.d.ts"
+}
